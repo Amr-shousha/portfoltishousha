@@ -80,8 +80,26 @@ background-attachment: fixed;
     color:rgb(50, 122, 255);
     font-size: 3em;
     font-weight: 600;
+     animation-name: example;
+  animation-duration: 3.5s ;
+  animation-iteration-count: 1;
 }
+@keyframes example {
+    from {color: aliceblue;}
+    
+    to {color:rgb(50, 122, 255;}
+  }
+
+@keyframes dddd {
+    from {color: rgb(50, 122, 255;}
+
+    
+    to {color: aliceblue;}
+  }
 .main h3{
+     animation-name: dddd;
+  animation-duration: 3.5s ;
+  animation-iteration-count: 1;
     max-width: 700px ;
 color: white;
 font-size: 2em;
