@@ -97,11 +97,13 @@ background-attachment: fixed;
     to {color: aliceblue;}
   }
 .main h3{
-     animation-name: dddd;
-  animation-duration: 3.5s ;
-  animation-iteration-count: 1;
+ animation-name: dddd;
+    animation-duration: 3.5s ;
+    animation-iteration-count: 1; 
+
+
     max-width: 700px ;
-color: white;
+color: aliceblue;
 font-size: 2em;
 font-weight: 700;
 letter-spacing: 1px;
