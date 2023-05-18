@@ -60,7 +60,7 @@ color:rgb(106, 106, 106) ;
 
 }
 .lott{
-    margin-left: 680px;
+    margin-left: 700px;
     position:absolute;
 
     z-index: 6;
@@ -110,7 +110,7 @@ background-attachment: fixed;
     from {color: blue;}
 
     
-    to {color: aliceblue;}
+    to {color: black;}
   }
 .main h3{ 
     animation-name: dddd;
