@@ -59,6 +59,12 @@ color:rgb(106, 106, 106) ;
 
 
 }
+.lott{
+    margin-left: 640px;
+    position:absolute;
+
+    z-index: 6;
+  }
 
 section
 {
@@ -67,7 +73,9 @@ section
 
   
 .main{
-   
+   position:relative;
+
+    z-index: 4;
 width: 100%;
 min-height: 100vh;
 display: flex;
