@@ -27,6 +27,17 @@ body{
     font-size: 1.8em;
    
 }
+.project-imgc img{
+    width: 100%;
+    padding-bottom :40px; 
+    padding-top: 30px;
+    
+    }
+    .projct-card .project-imgc :hover{
+        opacity: 0.9 ;
+    
+    }
+
 @keyframes mymove {
     0%   {right: 0px;}
     25%  {right: 200px;}
